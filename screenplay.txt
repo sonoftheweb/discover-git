@@ -1,0 +1,72 @@
+A FIRST DAY AT HOLBERTON SCHOOL
+
+Written by
+
+The Holberton School Students
+
+
+
+
+FADE IN:
+
+
+INT. HOLBERTON SCHOOL ENTRANCE - DAY
+
+DAVID walks into the school, and there are already groups of people talking together. JANE and HARRY walk up to him.
+
+
+JANE
+
+Hi, you're David right? I recognize you from your picture on the Slack channel!
+
+
+DAVID
+
+Yes, indeed. Jane and Harry, right? Have you guys been here long.
+
+
+HARRY
+
+We just arrived. I think everybody did, really.
+
+
+DAVID
+
+Perfect, let's go meet the other people!
+
+
+
+
+INT. HOLBERTON SCHOOL OPEN SPACE - DAY
+
+DAVID is now with AMY, they're working in pair to move forward on the Git project.
+
+
+AMY
+
+Have you ever used Git?
+
+
+DAVID
+
+I heard of it, but never used it. I did use SVN in a group project I did in college though. How about you?
+
+
+AMY
+
+I actually used Git when I built a website for my chess club. But I was the only one doing the project, so I barely scratched the surface.
+
+
+DAVID
+
+Oh, we'll definitely be able to learn from each other then!
+
+
+AMY
+
+Sounds like it!
+
+
+FADE OUT.
+
+THE END
