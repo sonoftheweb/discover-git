@@ -19,7 +19,11 @@ INT. HOLBERTON SCHOOL ENTRANCE - DAY
 
 JANE
 
+<<<<<<< HEAD
+(Exclaming) Hi, you're David right? I recognize you from your picture on the Slack channel!
+=======
 Hi, you're David right? I recognize you from your picture on the History channel! 
+>>>>>>> 62e2572cdd497da3a5933d050e2b8f9acd684994
 
 
 DAVID
