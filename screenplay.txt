@@ -77,11 +77,11 @@ Pellentesque molestie enim nisl, maximus volutpat erat vestibulum eu. Aliquam eg
 
 CHANDLER & JOSH TALKING ABOUT GIT 
 
-CHANDLER 
+CHANDLER MAYO 
 
 Have you ever used github before
 
-JOSH PARKIn 
+JOSH PARKIN
 
 Not really, I am more used to bitbucket 
 
