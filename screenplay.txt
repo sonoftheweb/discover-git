@@ -1,5 +1,7 @@
 A FIRST DAY AT HOLBERTON SCHOOL
 
+DAY 0
+
 or
 
 GIT: you know you love it!
