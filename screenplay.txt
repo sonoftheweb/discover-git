@@ -19,12 +19,7 @@ INT. HOLBERTON SCHOOL ENTRANCE - DAY
 
 JANE
 
-<<<<<<< HEAD
 (Exclaming) Hi, you're David right? I recognize you from your picture on the Slack channel!
-=======
-Hi, you're David right? I recognize you from your picture on the History channel! 
->>>>>>> 62e2572cdd497da3a5933d050e2b8f9acd684994
-
 
 DAVID
 
@@ -40,13 +35,9 @@ DAVID
 
 Perfect, let's go build an aquarium!
 
-
-
-
 INT. HOLBERTON SCHOOL OPEN SPACE - DAY
 
 DAVID is now with AMY, they're working in pair to move forward on the Git project.
-
 
 AMY
 
@@ -90,7 +81,7 @@ CHANDLER
 
 Have you ever used github before
 
-JOSH 
+JOSH PARKIn 
 
 Not really, I am more used to bitbucket 
 
