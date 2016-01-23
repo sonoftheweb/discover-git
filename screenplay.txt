@@ -24,7 +24,7 @@ Hi, you're David right? I recognize you from your picture on the History channel
 
 DAVID
 
-Yes, indeed. Jane and Harry, right? Have you guys been here long.
+Yes, indeed. Jane and Harry, right? Have you guys been here long?
 
 
 HARRY
@@ -46,7 +46,7 @@ DAVID is now with AMY, they're working in pair to move forward on the Git projec
 
 AMY
 
-Have you ever (pauses dramatically) used Git?
+Have you ever [DRAMATIC PAUSE] used Git?
 
 
 DAVID
@@ -84,11 +84,11 @@ CHANDLER & JOSH TALKING ABOUT GIT
 
 CHANDLER 
 
-Have you ever used github before
+Have you ever used Github before?
 
 JOSH 
 
-Not really, I am more used to bitbucket 
+Not really, I am more used to Bitbucket. 
 
 CHANDLER
 
