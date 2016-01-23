@@ -1,32 +1,34 @@
-Damian Ali
-Alexandro de Oliveira
-Asaia Palacios
-Augustin "Gus" Francis-Boeuf
-Bennet Buchanan
-Bilal Khan
-Siphan Bou
-Chandler Mayo
-Daniel Alzugaray
-Dora Korpar
-Electra Chong
+Name; github account
+
+Damian Ali; DamianAli
+Alexandro de Oliveira; havk64
+Asaia Palacios; asaiapalacios
+Augustin "Gus" Francis-Boeuf; afrancisboeuf
+Bennet Buchanan; bennettbuchanan
+Bilal Khan; bilalbarki
+Siphan Bou; Siphan
+Chandler Mayo; chandler767
+Daniel Alzugaray; dalzuga
+Dora Korpar; DoraKorpar
+Electra Chong; electrachong
 Gloria Bwandungi Mugarura
-Ian Wagener
+Ian Wagener; IanWagener
 Jacob Ekanem
-John Serrano
-John Spence
-Joe Greene
+John Serrano; johnSerrano
+John Spence; johnjohn987
+Joe Greene;
 Josh Parkin
-Josquin "Jo" Gaillard
-Kris Bredemeier
-Zee Adams
-Marine Dejean
-Mason Fish
-Naomi Veroczi
-William McCann
-Praylin Dinamoni
+Josquin "Jo" Gaillard; butcallmeJo
+Kris Bredemeier; krisbredemeier
+Zee Adams; wabluekey
+Marine Dejean; madejean
+Mason Fish; mason-fish
+Naomi Veroczi; nbveroczi
+William McCann; WilliamMcCann
+Praylin Dinamoni; Praylin
 Rick Harris
 Rick Houser
-Rona Chong
-Sravanthi Sinha
-Steven Garcia
-Tasneem Farag
+Rona Chong; ronachong
+Sravanthi Sinha; SravanthiSinha
+Steven Garcia; stvngrcia
+Tasneem Farag; tasneemfarag
