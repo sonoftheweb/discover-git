@@ -18,7 +18,7 @@ INT. HOLBERTON SCHOOL ENTRANCE - DAY
 
 JANE
 
-Hi, you're David right? I recognize you from your picture on the Slack channel!
+Hi, you're David right? I recognize you from your picture on the History channel! 
 
 
 DAVID
@@ -33,7 +33,7 @@ We just arrived. I think everybody did, really.
 
 DAVID
 
-Perfect, let's go meet the other people!
+Perfect, let's go build an aquarium!
 
 
 
@@ -60,7 +60,7 @@ I actually used Git when I built a website for my chess club. But I was the only
 
 DAVID
 
-Oh, we'll definitely be able to learn from each other then!
+Oh, we'll definitely be able to learn from each other then! 
 
 
 AMY
