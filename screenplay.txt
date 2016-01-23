@@ -23,23 +23,15 @@ INT. HOLBERTON SCHOOL ENTRANCE - DAY
 
 DAVID smells bacon grilled cheese and realizes he is hungry.
 
-JANE
+JANE: (Exclaming) Hi, you're David right? I recognize you from your picture on the Slack channel!
 
-(Exclaming) Hi, you're David right? I recognize you from your picture on the Slack channel!
-
-DAVID
-
-Yes, indeed. Jane and Harry, right? Have you guys been here long?
+DAVID: Yes, indeed. Jane and Harry, right? Have you guys been here long?
 
 
-HARRY
-
-We just arrived. I think everybody did, really.
+HARRY:We just arrived. I think everybody did, really.
 
 
-DAVID
-
-Perfect, let's go build an aquarium!
+DAVID:Perfect, let's go build an aquarium!
 
 INT. HOLBERTON SCHOOL OPEN SPACE - DAY
 
