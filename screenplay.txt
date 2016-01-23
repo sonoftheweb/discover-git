@@ -13,7 +13,7 @@ FADE IN:
 
 INT. HOLBERTON SCHOOL ENTRANCE - DAY
 
-DAVID walks into the school, and there are already groups of people talking together. JANE and HARRY walk up to him.
+(DAVID walks into the school, and there are already groups of people talking together. JANE and HARRY walk up to him.)
 
 
 JANE
@@ -45,7 +45,7 @@ DAVID is now with AMY, they're working in pair to move forward on the Git projec
 
 AMY
 
-Have you ever used Git?
+Have you ever (pauses dramatically) used Git?
 
 
 DAVID
