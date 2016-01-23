@@ -24,7 +24,7 @@ DAVID smells bacon grilled cheese and realizes he is hungry.
 
 JANE
 
-(Exclaming) Hi, you're David right? I recognize you from your picture on the Slack channel!
+(Exclaiming) Hi, you're David right? I recognize you from your picture on the Slack channel!
 
 DAVID
 
