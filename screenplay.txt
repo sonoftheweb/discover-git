@@ -41,7 +41,7 @@ DAVID
 
 Perfect, let's go build an aquarium!
 
-INT. HOLBERTON SCHOOL OPEN SPACE - DAY
+INT. HOLBERTON SCHOOL, BRIGHT OPEN SPACE - DAY
 
 DAVID is now with AMY, they're working in pair to move forward on the Git project.
 
