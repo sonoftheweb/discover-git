@@ -4,9 +4,6 @@ Written by
 
 The Holberton School Students
 
-
-
-
 FADE IN:
 
 
@@ -66,7 +63,22 @@ AMY
 
 Sounds like it!
 
+CHANDLER & JOSH TALKING ABOUT GIT 
+
+CHANDLER 
+
+Have you ever used github before
+
+JOSH 
+
+Not really, I am more used to bitbucket 
+
+CHANDLER 
+
+Same!
 
 FADE OUT.
+
+THESE CHANGES ARE MADE BY JOSH 
 
 THE END
