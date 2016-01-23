@@ -4,7 +4,7 @@ DAY 0
 
 or
 
-GIT: you know you love it!
+To GIT or Not to GIT; That is the Question.
 
 Written by:
 
