@@ -1,0 +1,75 @@
+A FIRST DAY AT HOLBERTON SCHOOL
+
+Written by
+
+The Holberton School Students - January 2016 batch
+
+Credits:
+Damian Ali, Alexandro de Oliveira, Asaia Palacios, Augustin "Gus" Francis-Boeuf, Bennet Buchanan, Bilal Khan, Siphan Bou, Chandler Mayo, Daniel Alzugaray, Dora Korpar, Electra Chong, Gloria Bwandungi Mugarura, Ian Wagener, Jacob Ekanem, John Serrano, John Spence, Joe Greene, Josh Parkin, Josquin "Jo" Gaillard, Kris Bredemeier, Zee Adams, Marine Dejean, Mason Fish, Naomi Veroczi, William McCann, Praylin Dinamoni, Rick Harris, Rick Houser, Rona Chong, Sravanthi Sinha, Steven Garcia, Tasneem Farag
+
+
+FADE IN:
+
+
+INT. HOLBERTON SCHOOL ENTRANCE - DAY
+
+(DAVID walks into the school, and there are already groups of people talking together. JANE and HARRY walk up to him.)
+
+
+JANE
+
+Hi, you're David right? I recognize you from your picture on the History channel! 
+
+
+DAVID
+
+Yes, indeed. Jane and Harry, right? Have you guys been here long.
+
+
+HARRY
+
+We just arrived. I think everybody did, really.
+
+
+DAVID
+
+Perfect, let's go build an aquarium!
+
+
+
+
+INT. HOLBERTON SCHOOL OPEN SPACE - DAY
+
+DAVID is now with AMY, they're working in pair to move forward on the Git project.
+
+
+AMY
+
+Have you ever (pauses dramatically) used Git?
+
+
+DAVID
+
+I heard of it, but never used it. I did use SVN in a group project I did in college though. How about you?
+
+
+AMY
+
+I actually used Git when I built a website for my chess club. But I was the only one doing the project, so I barely scratched the surface.
+
+
+DAVID
+
+Oh, we'll definitely be able to learn from each other then! 
+
+
+AMY
+
+Sounds like it! Do you speak Latin?
+
+
+DAVID
+
+FADE OUT, CURAIN GOES DOWN :).
+
+THE END
