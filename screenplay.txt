@@ -10,6 +10,7 @@ To GIT or Not to GIT; That is the Question.
 
 Written by:
 Rona Chong
+Daniel Alzugaray
 
 =======
 
